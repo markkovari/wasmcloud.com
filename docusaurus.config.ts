@@ -211,7 +211,7 @@ const config = (async (): Promise<Config> => {
             href: 'https://github.com/wasmcloud/wasmcloud',
             'aria-label': 'Star wasmCloud on GitHub',
             position: 'right',
-            html: `<span class="badge badge--outline">Star us! ★ <github-count repo="wasmcloud/wasmcloud">1500</github-count></span>`,
+            html: `<span class="badge badge--outline">Star us! ★ <github-count repo="wasmcloud/wasmcloud">2000</github-count></span>`,
             className: 'sidebar-hidden',
           },
           await svgIconNavItem({
